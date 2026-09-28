@@ -15,7 +15,7 @@ Welcome to the official repository of **Team Creepers** for ACM Create!
 | Name | Role | LinkedIn |
 | :--- | :--- | :--- |
 | **Samyog Maharjan** | Project Lead | {URL} |
-| **{NAME}** | {Role} | {URL} |
+| **Daniel Barrios** | Team Member | [URL](https://www.linkedin.com/in/daniel-barrios-software/) |
 | **{NAME}** | {Role} | {URL}) |
 | **{NAME}** | {Role} | {URL} |
 | **{NAME}** | {Role} | {URL} |
