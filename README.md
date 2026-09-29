@@ -32,7 +32,7 @@ By turning the initial awkwardness of new events into an engaging, gamified expe
 
 | Name | Role | LinkedIn |
 | :--- | :--- | :--- |
-| **Samyog Maharjan** | Project Lead | {URL} |
+| **Samyog Maharjan** | Project Lead | [URL](https://www.linkedin.com/in/samyogm/) |
 | **Daniel Barrios** | Team Member | [URL](https://www.linkedin.com/in/daniel-barrios-software/) |
 | **Dilmi Wickramanayake** | Create ACM Member | [URL](https://www.linkedin.com/in/dilmi-wickramanayake-b2a9882a8) |
 | **{NAME}** | {Role} | {URL} |
