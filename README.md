@@ -36,7 +36,7 @@ By turning the initial awkwardness of new events into an engaging, gamified expe
 | **Daniel Barrios** | Team Member | [URL](https://www.linkedin.com/in/daniel-barrios-software/) |
 | **Dilmi Wickramanayake** | Create ACM Member | [URL](https://www.linkedin.com/in/dilmi-wickramanayake-b2a9882a8) |
 | **Ekpe Chukwuziri** | Team Member | [URL](www.linkedin.com/in/chukwuziriekpe)|
-| **{NAME}** | {Role} | {URL} |
+| **Anupa Pandey** | Team Member | [URL](www.linkedin.com/in/anupa-pandey) |
 | **{NAME}** | {Roles} | {URL} |
 | **{NAME}** | {Roles} | {URL} |
 | **{NAME}** | {Roles} | {URL} |
