@@ -38,7 +38,7 @@ By turning the initial awkwardness of new events into an engaging, gamified expe
 | **Ekpe Chukwuziri** | Team Member | [URL](https://www.linkedin.com/in/chukwuziriekpe/)|
 | **Anupa Pandey** | Team Member | [URL](https://www.linkedin.com/in/anupa-pandey/) |
 | **Daniel Lopez** | Team Member | [URL](https://www.linkedin.com/in/daniel-lopez-975681428/) |
-| **{NAME}** | {Roles} | {URL} |
+| **Sushanta Raut** | Team Member | [URL](https://www.linkedin.com/in/sushantaraut1st/) |
 | **{NAME}** | {Roles} | {URL} |
 
 
